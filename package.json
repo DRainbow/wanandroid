@@ -1,0 +1,31 @@
+{
+  "name": "wanandroid",
+  "version": "1.0.0",
+  "description": "https:&#x2F;&#x2F;www.wanandroid.com",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRainbow/wanandroid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DRainbow/wanandroid/issues"
+  },
+  "homepage": "https://github.com/DRainbow/wanandroid#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}
